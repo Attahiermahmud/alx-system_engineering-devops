@@ -1,2 +1,3 @@
 #!/bin/bash
-chown master:vincent chgrp master:staff
+chown vincent
+chgrp staff
